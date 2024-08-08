@@ -8,5 +8,6 @@ Dorothy Sue Grimmer dorothysue@tamu.edu\
 Matthew Kehrli mdkehrli@ucsd.edu\
 Pricila Lange prilange@gmail.com
 
+To view a copy of our presentation slide deck please see https://drive.google.com/file/d/16AXndrG2hUXUl3XVb-5mB-ygCs-TeYad/view?usp=sharing 
 
 Thank you to the PACE Hackweek organising team (Anna Windle, Jeremy Werdell, Ian Carroll, Carina Poulin, Pengwang Zhai, Eli Holmes, Sean Foley, Patrick Gray, Kelsey Bisson, Meng Gao, Guoqing Wang, Heather Benway, Mai Maheigan, Mary Zawoysky) for lectures, tutorials, planning and support. We would also like to acknowledge CryoCloud which was used to undertake this work.
