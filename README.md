@@ -5,4 +5,4 @@ Paige Dillen pdillen@hawaii.edu\
 Afonso Ferriera ambferreira@fc.ul.pt\
 Yanna Alexia Fidai yfi@pml.ac.uk\
 Matthew Kehrli mdkehrli@ucsd.edu\
-Pricila Lange prilange@gmail.com\
+Pricila Lange prilange@gmail.com
