@@ -9,4 +9,4 @@ Matthew Kehrli mdkehrli@ucsd.edu\
 Pricila Lange prilange@gmail.com
 
 
-Thank you to the PACE Hackweek organising team (Anna Windle, Jeremy Werdell, Ian Carroll, Carina Poulin, Pengwang Zhai, Eli Holmes, Sean Foley, Patrick Gray, Kelsey Bisson, Meng Gao, Guoqing Wang, Heather Benway, Mai Maheigan, Mary Zawoysky) for lectures, tutorials and support. 
+Thank you to the PACE Hackweek organising team (Anna Windle, Jeremy Werdell, Ian Carroll, Carina Poulin, Pengwang Zhai, Eli Holmes, Sean Foley, Patrick Gray, Kelsey Bisson, Meng Gao, Guoqing Wang, Heather Benway, Mai Maheigan, Mary Zawoysky) for lectures, tutorials, planning and support. We would also like to acknowledge CryoCloud which was used to undertake this work.
